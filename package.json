@@ -1,0 +1,17 @@
+{
+  "name": "nodejsDemo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "~4.12.4",
+    "cfenv": "*",
+    "ibm_db": "*"
+  },
+  "engines": {
+    "node": "0.12.5"
+  },
+  "repository": {}
+}
